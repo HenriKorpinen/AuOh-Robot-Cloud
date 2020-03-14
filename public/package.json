@@ -2,13 +2,12 @@
   "name": "auoh-robot-cloud",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
+    "express": "^4.17.1",
     "nodemon": "^2.0.2"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
@@ -16,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yliharsilamikko/AUOH-robot-cloud.git"
+    "url": "git+https://github.com/HenriKorpinen/AuOh-Robot-Cloud.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yliharsilamikko/AUOH-robot-cloud/issues"
+    "url": "https://github.com/HenriKorpinen/AuOh-Robot-Cloud/issues"
   },
-  "homepage": "https://github.com/yliharsilamikko/AUOH-robot-cloud#readme"
+  "homepage": "https://github.com/HenriKorpinen/AuOh-Robot-Cloud#readme"
 }
